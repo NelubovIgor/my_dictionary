@@ -1,0 +1,79 @@
+
+
+
+access - доступ
+allowed - разрешено
+application - приложение
+array - массив
+artificial - искуственный
+assume - предполагать
+attempt - попытка
+award - награда
+below - ниже
+bizarre - странный
+consider - рассматривать
+decreasing - убывающий
+define - определять
+defined - определены
+describe - описывать
+description - описание
+desire - желание
+divisible - делимый
+either - любой
+ensure - гарантировать
+equal - равный
+even - даже, чётный
+expected - ожидаемый
+explain - объяснять
+folder - папка
+further - дальнейший
+got it - понял
+hook - крюк
+instance - экземпляр
+instead - вместо
+integer - целое число
+integers - целые числа
+invalid - недействительный
+involves - включает в себя
+issues - вопросы
+item - элемент
+layer - слой
+long - длинный, протяжённый
+manage - управлять
+matching - соответствие
+mean - значит, означать
+meaning - значение
+measuring - измерение
+pair - пара
+particular instance - конкретный пример
+performance - представление
+pour - наливать
+probably - возможно
+properties - свойства
+query - запрос
+queue - очередь
+recent - недавний
+representing - представляющий
+required - обязательный
+required - требуемый
+requirements - требования
+resolved - разрешённый
+response - ответ
+same - такой же
+share - делиться
+shuffled - перетасованный
+since - поскольку
+solution - решение
+stuck - застрял
+such - такой
+summary - резюме
+task - задача
+thickness - толщина
+though - хотя
+throughout - через
+tricky - хитрый
+trusted - доверенный
+underrated - недооцененный
+warn - предупреждать
+weird - странный
+whose - чья

@@ -1,0 +1,93 @@
+access - доступ
+allowed - разрешено
+application - приложение
+array - массив
+artificial - искуственный
+assume - предполагать
+attempt - попытка
+award - награда
+below - ниже
+bizarre - странный
+decreasing - убывающий
+define - определять
+describe - описывать
+description - описание
+desire - желание
+divisible - делимый
+either - любой
+ensure - гарантировать
+equal - равный
+even - даже, чётный
+expected - ожидаемый
+explain - объяснять
+folder - папка
+further - дальнейший
+got it - понял
+hook - крюк
+instead - вместо
+integers - целые числа
+invalid - недействительный
+involves - включает в себя
+issues - вопросы
+item - элемент
+layer - слой
+manage - управлять
+matching - соответствие
+mean - значит, означать
+meaning - значение
+measuring - измерение
+pair - пара
+particular instance - конкретный пример
+performance - представление
+pour - наливать
+probably - возможно
+query - запрос
+queue - очередь
+recent - недавний
+representing - представляющий
+required - требуемый
+requirements - требования
+response - ответ
+share - делиться
+shuffled - перетасованный
+since - поскольку
+solution - решение
+stuck - застрял
+such - такой
+summary - резюме
+task - задача
+thickness - толщина
+though - хотя
+throughout - через
+tricky - хитрый
+trusted - доверенный
+underrated - недооцененный
+warn - предупреждать
+weird - странный
+integer - целое число
+whose - чья
+consider - рассматривать
+properties - свойства
+instance - экземпляр
+same - такой же
+long - длинный, протяжённый
+defined - определены
+resolved - разрешённый
+required - обязательный
+splendid - великолепно
+bring - принести
+probability - вероятность
+deploy - развёртывать
+depending - зависящий
+spread - распространение
+extensions - расширения
+review - обзор
+dismiss - отклонить
+self-taught - самоучка
+mean - означать
+reward - награда
+remote - удалённый
+template - шаблон
+requires - требует
+variable - переменная
+permission - разрешение
