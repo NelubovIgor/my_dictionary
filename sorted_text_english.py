@@ -1,7 +1,7 @@
 import csv
 import sys
 import random
-from PySide6 import QtCore, QtWidgets, QtGui
+from PySide6 import QtCore, QtWidgets
 
 
 def load_file(name_file):
@@ -12,7 +12,7 @@ def load_file(name_file):
 
         while line != '':
             list_words.append(line.strip())
-            line = text.readline()
+            line = text.readline() 
 
         sorted_dictionary = sorted(list_words)
     return sorted_dictionary
